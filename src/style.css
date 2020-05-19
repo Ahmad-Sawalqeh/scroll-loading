@@ -7,6 +7,19 @@
     padding: 5px;
 }
 
+.moreLoad{
+    float: right;
+    height: 300px;
+    width: 430px;
+}
+
+.table-wrap{
+    float: left;
+    height: 300px;
+    width: 430px;
+    overflow-y: auto;
+}
+
 .bg-orange{
     background: orange;
 }
